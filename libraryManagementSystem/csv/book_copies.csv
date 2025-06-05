@@ -1,0 +1,8 @@
+BookTypeID,BookCopyID,Status
+10001,1,available
+10001,2,borrowed
+10001,3,available
+10002,1,available
+10002,2,available
+10003,1,borrowed
+10004,1,available
